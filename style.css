@@ -1,0 +1,140 @@
+      header {
+        height: auto;
+        width: 100%;
+        background-color: black;
+      }
+
+      ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        color: yellow;
+        font-family: verdana, arial, times;
+        font-size: 25px;
+      }
+
+      li {
+        display: inline;
+      }
+        
+      #logo {
+        color: white;
+        font-family: verdana, times, serif;
+        font-size: 50px;
+        font-weight: bolder;
+        padding: 20px 0 20px 100px;
+      }
+
+
+      #left-top {
+      
+        width: 75%;
+        background-color: white;
+        float: left;
+      }
+
+      #left-bottom {
+        height: auto;
+        width: 75%;
+        background-color: white;
+        clear: left;
+      }
+
+      #right-top {
+        height:100px;
+        width: 25%;
+        background-color: gray;
+        float: left;
+      }
+
+      #right-middle {
+        height: 100px;
+        width: 25%;
+        background-color: purple;
+        float: right;
+      }
+      
+      #right-bottom {
+        height: auto;
+        width: 25%;
+        background-color: red;
+        float: right;
+      }
+
+      #ad-unit {
+        width: 100%;
+      }
+
+      aside {
+        height: auto;
+        width: 100%;
+        background-color: yellow;
+        padding: 20px 0 20px 0;
+      }
+
+
+      footer {
+        height: auto;
+        width: 100%;
+        background-color: black;
+      }
+
+      .header {
+        padding-left:100px;
+        padding-right: 100px;
+        font-family:verdana, times, serif;
+        font-size:50px;
+      }
+
+      .article-img {
+        padding-left: 100px;
+      }
+
+      .blog-article {
+        padding-left:100px;
+        font-family: verdana, times, serif;
+        font-size:25px;
+        padding-bottom: 150px;  
+      }
+
+      button {
+        background-color: black;
+        color: white;
+        font-size: 25px;
+        font-weight: 900;
+        text-align: center;
+        font-family: verdana;
+        padding: 15px 50px 15px 50px;
+        border-radius: 5px 5px 5px 5px;
+        margin: auto;
+        display:block;
+    }
+
+      #footer {
+        font-family: verdana, times, serif;
+        color: yellow;
+        font-size: 50px;
+        text-align: center;
+        padding: 50px 0 0 0 ;
+
+      }
+
+      #p-footer {
+        font-family: verdana, times, serif;
+        color: white;
+        font-size: 20px;
+        text-align: center;
+        padding: 75px 0 50px 0 ;
+      }
+      
+      #twitter {
+        float:left;
+      }
+    
+      #facebook {
+        float: left;
+        margin: 10px;
+      }
+
+
+
